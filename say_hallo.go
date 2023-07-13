@@ -3,5 +3,5 @@ package sayhello
 import "fmt"
 
 func Hello() {
-	fmt.Println("Hallo")
+	fmt.Println("Hallo from package")
 }
